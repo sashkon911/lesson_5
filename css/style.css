@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=OpenSans:wght@400;500;800&display=swap');
+@font-face{
+   font-family: "Inter";
+   src: url("../fonts/Inter-Regular.woff2") format("woff2"), url("../fonts/Inter-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+*{
+   font-family: OpenSans;
+}
+   .header{
+      font-family: Inter;
+      font-weight: 800;
+      font-size: 60px;
+      text-align: center;
+      text-shadow: 10px 10px 10px ;
+   }
+   div.title{
+      text-align: right;
+      color: blue;
+   }
+   .content{
+      font-size: 20px;
+   }
+   .history{
+      text-indent: 50px;
+      color: blueviolet;
+   }
+   .village{
+      text-indent: 100px;
+      color: red;
+   }
+   .Catholicism{
+      text-indent: 50px;
+      color: blueviolet;
+   }
+   .Judaism{
+      text-indent: 100px;
+      color: red;
+   }
+   .Orthodoxy{
+      text-indent: 150px;
+      color: green;
+   }
+   .history.text{
+      color: black;
+      font-family: Inter;
+      font-size: 40px;
+      text-align: center;
+   }
+   .Archeology{
+      font-family: Inter;
+      font-size: 20px;
+      text-indent: 100px;
+   }
+   .text-Archeology{
+      color: gold;
+      text-align: justify;
+   }
+   .history-text{
+      font-family: Inter;
+      font-size: 20px;
+      text-indent: 100px;
+   }
+   .lesson{
+      text-decoration: underline;
+      color: brown;
+   }
+.retreat{
+   padding: 40px;
+   color: fuchsia;
+}
+.lesson-city{
+   text-transform: capitalize;
+   color: saddlebrown;
+}
+.lesson-text{
+   text-transform:lowercase;
+   color: yellow;
+}
+.lesson-text-city{
+   text-transform:uppercase;
+   color: blue;
+}
+.text-city{
+   line-height: 40px;
+   color: black;
+}
+.lesson-one{
+   letter-spacing: 30px;
+   color: aqua;
+}
+.lesson-two{
+   white-space: nowrap;
+}
+.lesson-three{
+   word-spacing: 30px;
+   color: red;
+}
+.Population{
+   color: black;
+   font-family: Inter;
+   font-size: 40px;
+   text-align: center;
+}
+.Population-text{
+   padding: 40px;
+   color: aqua;
+   text-decoration: overline;
+}
+.Economy{
+   color: black;
+   font-family: Inter;
+   font-size: 40px;
+   text-align: center;
+}
+.Economy-text{
+   padding: 40px;
+   text-indent: 30px;
+}
+.Religion{
+   color: black;
+   font-family: Inter;
+   font-size: 40px;
+   text-align: center;
+}
+.Religion-one{
+   font-family: Inter;
+   font-size: 20px;
+   text-indent: 100px;
+}
+.Religion-text{
+   padding: 40px;
+}
+.Religion-two{
+   font-family: Inter;
+   font-size: 20px;
+   text-indent: 100px;
+}
+.Religion-two-text{
+   padding: 40px;
+}
+.Religion-three{
+   font-family: Inter;
+   font-size: 20px;
+   text-indent: 100px;
+}
+.Religion-three-text{
+   padding: 40px;
+}
+.Religion~h3{
+   color: blue;
+}
